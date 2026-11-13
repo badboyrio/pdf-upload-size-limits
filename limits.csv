@@ -1,0 +1,6 @@
+portal,country,upload,limit,formats,source_url,last_checked
+USCIS online filing,US,Evidence attached to an online form,12 MB per file,"PDF, JPG, JPEG",https://www.uscis.gov/file-online/tips-for-filing-forms-online,2026-11-13
+IRS Documentation Upload Tool,US,Documents in reply to an IRS notice,"15 MB per file, up to 40 files","PDF, JPEG, PNG",https://www.irs.gov/newsroom/irs-expands-secure-digital-correspondence-for-taxpayers,2026-11-13
+IRCC secure account,CA,Supporting documents,4 MB per file (most IRCC accounts),see source,https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1123&top=23,2026-11-13
+Protean PAN application,IN,"ID, address and date of birth proofs",300 KB per page,PDF,https://www.proteantech.in/articles/pan-card-documents-scanning-uploading-method/,2026-11-13
+Greenhouse job applications,,Resume (automatic parsing),Parsing fails above 2.5 MB,see source,https://support.greenhouse.io/hc/en-us/articles/200989175,2026-11-13
